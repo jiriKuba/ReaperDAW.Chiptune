@@ -27,3 +27,7 @@ Each setting is simulation of real life instrument in chiptune style (imaginatio
 * Guitar - Bass
 * Guitar - Distortion
 * Guitar - Overdrive
+
+**Example**
+
+https://github.com/jiriKuba/ReaperDAW.Chiptune/blob/master/EXAMPLE.md
