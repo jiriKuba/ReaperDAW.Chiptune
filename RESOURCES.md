@@ -19,3 +19,11 @@ for producing primitive electronic sounds like the old 8bit game consoles.*
 
 Download page:
 http://www.ymck.net/en/download/magical8bitplug/index.html
+
+**Magical 8bit Plug - settings tutorial**
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LxVMaLspkwU/0.jpg)](http://www.youtube.com/watch?v=LxVMaLspkwU)
+
+**Magical 8bit Plug - drum setup**
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/88gcwEChM2k/0.jpg)](http://www.youtube.com/watch?v=88gcwEChM2k)
