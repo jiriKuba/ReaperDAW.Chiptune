@@ -1,4 +1,12 @@
 # ReaperDAW.Chiptune
-ReaperDAW preset for chiptune music
+This is a ReaperDAW preset for "Magical 8bit Plug" VST plugin. 
 
-Description will be soon ready.
+**Resources**
+
+https://github.com/jiriKuba/ReaperDAW.Chiptune/blob/master/RESOURCES.md
+
+.
+.
+.
+
+Full description will be soon ready.
