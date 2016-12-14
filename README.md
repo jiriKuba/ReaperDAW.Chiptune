@@ -5,6 +5,10 @@ This is a ReaperDAW preset for "Magical 8bit Plug" VST plugin.
 
 https://github.com/jiriKuba/ReaperDAW.Chiptune/blob/master/RESOURCES.md
 
+**Version**
+
+Current version is 1.0.0
+
 **Install**
 * Download this repository
 * Copy file "vst-magical8bitPlug3.ini" from this repository to your ReaperDAW presets folder:
@@ -31,3 +35,8 @@ Each setting is simulation of real life instrument in chiptune style (imaginatio
 **Example**
 
 https://github.com/jiriKuba/ReaperDAW.Chiptune/blob/master/EXAMPLE.md
+
+**Changes**
+
+_Version 1.0.0:_
+* First public version
