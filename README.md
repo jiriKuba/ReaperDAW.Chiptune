@@ -10,6 +10,9 @@ https://github.com/jiriKuba/ReaperDAW.Chiptune/blob/master/RESOURCES.md
 Current version is 1.0.0
 
 **Install**
+* Install ReaperDAW (http://www.reaper.fm/download.php)
+* Install Magical 8bit Plug (http://www.ymck.net/en/download/magical8bitplug/index.html)
+* Add Magical 8bit Plug VST plugin to Reaper DAW VST folder
 * Download this repository
 * Copy file "vst-magical8bitPlug3.ini" from this repository to your ReaperDAW presets folder:
 C:\Users\\{user_name}\AppData\Roaming\REAPER\presets\
