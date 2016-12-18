@@ -48,3 +48,4 @@ _Version 1.0.0:_
 
 * Ride Cymbal
 * Ride Bell
+* Install script
