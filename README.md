@@ -43,3 +43,8 @@ https://github.com/jiriKuba/ReaperDAW.Chiptune/blob/master/EXAMPLE.md
 
 _Version 1.0.0:_
 * First public version
+
+**TODOs**
+
+* Ride Cymbal
+* Ride Bell
