@@ -14,8 +14,11 @@ Current version is 1.0.0
 * Install Magical 8bit Plug (http://www.ymck.net/en/download/magical8bitplug/index.html)
 * Add Magical 8bit Plug VST plugin to Reaper DAW VST folder
 * Download this repository
-* Copy file "vst-magical8bitPlug3.ini" from this repository to your ReaperDAW presets folder:
-C:\Users\\{user_name}\AppData\Roaming\REAPER\presets\
+* Unzip
+* Copy file "vst-magical8bitPlug3.ini" from this repository to your ReaperDAW presets folder
+* Windows: 
+  * C:\Users\\{user_name}\AppData\Roaming\REAPER\presets\ 
+  * or run install script: *install.windows.bat*
 
 **Preset content**
 
@@ -48,4 +51,4 @@ _Version 1.0.0:_
 
 * Ride Cymbal
 * Ride Bell
-* Install script
+* ~~Install script~~
